@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+/output-2/
+/count-output/
+/output/
+/target/
+/bigDataForSkt/all.log
+/project/
+!/project/
+/project/target/
+/project/project/
+/bigDataForSkt/
+/lib/indicTools-transliterator.jar
