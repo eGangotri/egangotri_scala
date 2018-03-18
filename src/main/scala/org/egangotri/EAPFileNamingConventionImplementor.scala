@@ -19,7 +19,7 @@ object EAPFileNamingConventionImplementor {
           var newName = counter(cntr, s"${filePath.getName}_")
           var newPath = s"${f.getParent + File.separator + newName}"
           println(s"$f will be renamed to $newPath")
-          println(f.renameTo(new File(newPath)))
+          //println(f.renameTo(new File(newPath)))
         }
       }
     }

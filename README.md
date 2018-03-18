@@ -3,7 +3,7 @@ Scala Tools for eGangotri
 
 ##Prerequisites
 Download Java 8 and Scala 2.11. 
-Download egangotri_in_scala Code.
+Download eGangotri_Scala Code.
 
 ## To Use Archive Scrapper
 In Home Directory of your Operating System, create the following file:

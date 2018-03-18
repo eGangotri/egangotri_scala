@@ -1,5 +1,5 @@
 
-name := "egangotri_in_Scala"
+name := "eGangotri_Scala"
 
 version := "1.0"
 
