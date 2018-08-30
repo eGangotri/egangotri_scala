@@ -9,7 +9,7 @@ import scala.collection.mutable.ArrayBuffer
   */
 object FileListWithFileInitialText {
   def main(args: Array[String]): Unit = {
-    var fileNames:List[String] = FileUtil.getListOfFilesAsListOfStrings("C:\\ORL manuscripts (complete)\\pdf\\u2")
+    var fileNames:List[String] = FileUtil.getListOfFilesAsListOfStrings("E:\\Treasures17\\avn")
     var fileInits:scala.collection.mutable.ArrayBuffer[String] = ArrayBuffer()
 
     for(name <- fileNames){

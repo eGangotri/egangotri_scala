@@ -12,7 +12,8 @@ scalaVersion := "2.11.8"
 //mainClass in Compile := Some("org.egangotri.CompareFolders")
 //mainClass in Compile := Some("org.egangotri.FileListWithFileInitialText")
 //mainClass in Compile := Some("txn.ReadFile")
-mainClass in Compile := Some("org.egangotri.EAPFileNamingConventionImplementor")
+//mainClass in Compile := Some("org.egangotri.ImageItemsToPdfCombiner")
+mainClass in Compile := Some("utils.InterviewCodingSpace")
 
 //mainClass in Compile := Some("org.bigdata.skt.WordCount")
 
@@ -28,8 +29,9 @@ libraryDependencies ++= Seq(
   "org.scala-lang.modules" % "scala-xml_2.11" % "1.0.4",
   "org.jsoup" % "jsoup" % "1.10.2",
   "com.itextpdf" % "itextpdf" % "5.5.11",
-  "org.scalaj" % "scalaj-http_2.10" % "2.3.0"
-  //,"org.slf4j" % "log4j-over-slf4j" % "1.7.13"
+  "org.scalaj" % "scalaj-http_2.10" % "2.3.0",
+  "org.slf4j" % "slf4j-api" % "1.7.25",
+  "org.slf4j" % "slf4j-simple" % "1.7.25"
 )
 
 assemblyMergeStrategy in assembly := {

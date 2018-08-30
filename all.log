@@ -1,0 +1,179 @@
+2018-07-11 22:44:46.923 [run-main-0] INFO  - Treasures
+2018-07-11 22:44:46.925 [run-main-0] INFO  - Treasures 2
+2018-07-11 22:44:46.925 [run-main-0] INFO  - Treasures-3
+2018-07-11 22:44:46.925 [run-main-0] INFO  - Treasures10
+2018-07-11 22:44:46.925 [run-main-0] INFO  - Treasures11
+2018-07-11 22:44:46.926 [run-main-0] INFO  - Treasures12
+2018-07-11 22:44:46.926 [run-main-0] INFO  - Treasures13
+2018-07-11 22:44:46.926 [run-main-0] INFO  - Treasures14
+2018-07-11 22:44:46.926 [run-main-0] INFO  - Treasures15
+2018-07-11 22:44:46.926 [run-main-0] INFO  - Treasures16
+2018-07-11 22:44:46.926 [run-main-0] INFO  - Treasures17
+2018-07-11 22:44:46.926 [run-main-0] INFO  - Treasures18
+2018-07-11 22:44:46.926 [run-main-0] INFO  - Treasures4
+2018-07-11 22:44:46.929 [run-main-0] INFO  - Treasures5
+2018-07-11 22:44:46.929 [run-main-0] INFO  - Treasures6
+2018-07-11 22:44:46.929 [run-main-0] INFO  - Treasures7
+2018-07-11 22:44:46.929 [run-main-0] INFO  - Treasures8
+2018-07-11 22:44:46.929 [run-main-0] INFO  - Treasures9
+2018-07-11 22:44:46.929 [run-main-0] INFO  - DigitizationStats
+2018-07-11 23:13:57.164 [run-main-0] INFO  - Number of PDFs in Treasures: 2674 / Number of Pages: 693097and Total Size in GB: 156.96
+2018-07-11 23:28:05.587 [run-main-0] INFO  - Number of PDFs in Treasures 2: 693 / Number of Pages: 199803and Total Size in GB: 75.01
+2018-07-11 23:31:47.685 [run-main-0] INFO  - Number of PDFs in Treasures-3: 357 / Number of Pages: 38459and Total Size in GB: 20.46
+2018-07-11 23:47:38.800 [run-main-0] INFO  - Number of PDFs in Treasures10: 532 / Number of Pages: 146334and Total Size in GB: 71.88
+2018-07-11 23:59:48.010 [run-main-0] INFO  - Number of PDFs in Treasures11: 515 / Number of Pages: 129700and Total Size in GB: 54.21
+2018-07-12 00:07:43.154 [run-main-0] INFO  - Number of PDFs in Treasures12: 281 / Number of Pages: 75804and Total Size in GB: 28.91
+2018-07-12 00:18:44.204 [run-main-0] INFO  - Number of PDFs in Treasures13: 400 / Number of Pages: 93019and Total Size in GB: 38.13
+2018-07-12 00:22:24.773 [run-main-0] INFO  - Number of PDFs in Treasures14: 199 / Number of Pages: 22261and Total Size in GB: 8.98
+2018-07-12 00:29:50.806 [run-main-0] INFO  - Number of PDFs in Treasures15: 510 / Number of Pages: 58779and Total Size in GB: 29.14
+2018-07-12 00:37:46.056 [run-main-0] INFO  - Number of PDFs in Treasures16: 428 / Number of Pages: 80591and Total Size in GB: 34.96
+2018-07-12 00:46:35.794 [run-main-0] INFO  - Number of PDFs in Treasures17: 360 / Number of Pages: 79128and Total Size in GB: 41.8
+2018-07-12 01:05:54.151 [run-main-0] INFO  - Number of PDFs in Treasures18: 1116 / Number of Pages: 171734and Total Size in GB: 91.31
+2018-07-12 01:29:23.388 [run-main-0] INFO  - Number of PDFs in Treasures4: 1345 / Number of Pages: 326475and Total Size in GB: 143.41
+2018-07-12 01:31:21.453 [run-main-0] INFO  - F:\eGangotri\Treasures5\avneet\WishList\Lot-8\Katha Sarit Sagar - Somadeva_Alm 17_Shlf 3_3655 - Sahitya.pdf gave exception while counting pages Rebuild failed: trailer not found.; Original message: Invalid object number. at file pointer 1471164988
+2018-07-12 01:46:34.189 [run-main-0] INFO  - Number of PDFs in Treasures5: 910 / Number of Pages: 213949and Total Size in GB: 88.44
+2018-07-12 01:55:26.101 [run-main-0] INFO  - Treasures5
+2018-07-12 01:55:26.105 [run-main-0] INFO  - Treasures6
+2018-07-12 01:55:26.105 [run-main-0] INFO  - Treasures7
+2018-07-12 01:55:26.105 [run-main-0] INFO  - Treasures8
+2018-07-12 01:55:26.106 [run-main-0] INFO  - Treasures9
+2018-07-12 01:55:26.107 [run-main-0] INFO  - DigitizationStats
+2018-07-12 01:57:18.235 [run-main-0] INFO  - F:\eGangotri\5-9\Treasures5\avneet\WishList\Lot-8\Katha Sarit Sagar - Somadeva_Alm 17_Shlf 3_3655 - Sahitya.pdf gave exception while counting pages Rebuild failed: trailer not found.; Original message: Invalid object number. at file pointer 1471164988
+2018-07-12 02:12:20.578 [run-main-0] INFO  - Number of PDFs in Treasures5: 910 / Number of Pages: 213949and Total Size in GB: 88.44
+2018-07-12 02:12:20.579 [run-main-0] INFO  - 213949
+2018-07-12 02:25:38.418 [run-main-0] INFO  - Number of PDFs in Treasures6: 526 / Number of Pages: 140916and Total Size in GB: 73.12
+2018-07-12 02:25:38.418 [run-main-0] INFO  - 213949+140916
+2018-07-12 02:43:57.353 [run-main-0] INFO  - Number of PDFs in Treasures7: 962 / Number of Pages: 190875and Total Size in GB: 94.12
+2018-07-12 02:43:57.354 [run-main-0] INFO  - 213949+140916+190875
+2018-07-12 02:54:49.066 [run-main-0] INFO  - Number of PDFs in Treasures8: 452 / Number of Pages: 110067and Total Size in GB: 56.54
+2018-07-12 02:54:49.066 [run-main-0] INFO  - 213949+140916+190875+110067
+2018-07-12 03:09:31.899 [run-main-0] INFO  - Number of PDFs in Treasures9: 627 / Number of Pages: 147968and Total Size in GB: 74.01
+2018-07-12 03:09:31.902 [run-main-0] INFO  - 213949+140916+190875+110067+147968
+2018-07-12 03:09:31.902 [run-main-0] INFO  - pdfCount: 3477
+2018-07-12 03:09:31.902 [run-main-0] INFO  - Number of Pages: 803775
+2018-07-12 03:09:31.903 [run-main-0] INFO  - totalSize in TB: 0.38
+2018-07-12 12:15:50.965 [run-main-0] INFO  - DigitizationStats
+2018-07-12 12:15:50.969 [run-main-0] INFO  - pdfCount: 0
+2018-07-12 12:15:50.972 [run-main-0] INFO  - totalSize in TB: 0.0
+2018-07-12 12:16:29.052 [run-main-0] INFO  - Treasures
+2018-07-12 12:16:29.053 [run-main-0] INFO  - Treasures 2
+2018-07-12 12:16:29.053 [run-main-0] INFO  - Treasures-3
+2018-07-12 12:16:29.053 [run-main-0] INFO  - Treasures10
+2018-07-12 12:16:29.053 [run-main-0] INFO  - Treasures11
+2018-07-12 12:16:29.053 [run-main-0] INFO  - Treasures12
+2018-07-12 12:16:29.054 [run-main-0] INFO  - Treasures13
+2018-07-12 12:16:29.054 [run-main-0] INFO  - Treasures14
+2018-07-12 12:16:29.054 [run-main-0] INFO  - Treasures15
+2018-07-12 12:16:29.054 [run-main-0] INFO  - Treasures16
+2018-07-12 12:16:29.054 [run-main-0] INFO  - Treasures17
+2018-07-12 12:16:29.054 [run-main-0] INFO  - Treasures18
+2018-07-12 12:16:29.054 [run-main-0] INFO  - Treasures4
+2018-07-12 12:16:29.054 [run-main-0] INFO  - Treasures5
+2018-07-12 12:16:29.054 [run-main-0] INFO  - Treasures6
+2018-07-12 12:16:29.054 [run-main-0] INFO  - Treasures7
+2018-07-12 12:16:29.055 [run-main-0] INFO  - Treasures8
+2018-07-12 12:16:29.055 [run-main-0] INFO  - Treasures9
+2018-07-12 12:16:29.055 [run-main-0] INFO  - DigitizationStats
+2018-07-12 12:16:32.890 [run-main-0] INFO  - Number of PDFs in Treasures: 2674 / ()and Total Size in GB: 156.96
+2018-07-12 12:16:32.892 [run-main-0] INFO  - 0
+2018-07-12 12:16:41.761 [run-main-0] INFO  - Number of PDFs in Treasures 2: 693 / ()and Total Size in GB: 75.01
+2018-07-12 12:16:41.762 [run-main-0] INFO  - 0+0
+2018-07-12 12:16:42.773 [run-main-0] INFO  - Number of PDFs in Treasures-3: 357 / ()and Total Size in GB: 20.46
+2018-07-12 12:16:42.774 [run-main-0] INFO  - 0+0+0
+2018-07-12 12:16:43.846 [run-main-0] INFO  - Number of PDFs in Treasures10: 532 / ()and Total Size in GB: 71.88
+2018-07-12 12:16:43.846 [run-main-0] INFO  - 0+0+0+0
+2018-07-12 12:16:44.733 [run-main-0] INFO  - Number of PDFs in Treasures11: 515 / ()and Total Size in GB: 54.21
+2018-07-12 12:16:44.734 [run-main-0] INFO  - 0+0+0+0+0
+2018-07-12 12:16:45.248 [run-main-0] INFO  - Number of PDFs in Treasures12: 281 / ()and Total Size in GB: 28.91
+2018-07-12 12:16:45.248 [run-main-0] INFO  - 0+0+0+0+0+0
+2018-07-12 12:16:46.243 [run-main-0] INFO  - Number of PDFs in Treasures13: 400 / ()and Total Size in GB: 38.13
+2018-07-12 12:16:46.243 [run-main-0] INFO  - 0+0+0+0+0+0+0
+2018-07-12 12:16:46.864 [run-main-0] INFO  - Number of PDFs in Treasures14: 199 / ()and Total Size in GB: 8.98
+2018-07-12 12:16:46.864 [run-main-0] INFO  - 0+0+0+0+0+0+0+0
+2018-07-12 12:16:48.651 [run-main-0] INFO  - Number of PDFs in Treasures15: 510 / ()and Total Size in GB: 29.14
+2018-07-12 12:16:48.651 [run-main-0] INFO  - 0+0+0+0+0+0+0+0+0
+2018-07-12 12:16:49.070 [run-main-0] INFO  - Number of PDFs in Treasures16: 127 / ()and Total Size in GB: 11.89
+2018-07-12 12:16:49.071 [run-main-0] INFO  - 0+0+0+0+0+0+0+0+0+0
+2018-07-12 12:17:48.516 [run-main-0] INFO  - Treasures
+2018-07-12 12:17:48.518 [run-main-0] INFO  - Treasures 2
+2018-07-12 12:17:48.519 [run-main-0] INFO  - Treasures-3
+2018-07-12 12:17:48.519 [run-main-0] INFO  - Treasures10
+2018-07-12 12:17:48.519 [run-main-0] INFO  - Treasures11
+2018-07-12 12:17:48.519 [run-main-0] INFO  - Treasures12
+2018-07-12 12:17:48.519 [run-main-0] INFO  - Treasures13
+2018-07-12 12:17:48.519 [run-main-0] INFO  - Treasures14
+2018-07-12 12:17:48.520 [run-main-0] INFO  - Treasures15
+2018-07-12 12:17:48.520 [run-main-0] INFO  - Treasures16
+2018-07-12 12:17:48.520 [run-main-0] INFO  - Treasures17
+2018-07-12 12:17:48.520 [run-main-0] INFO  - Treasures18
+2018-07-12 12:17:48.520 [run-main-0] INFO  - Treasures4
+2018-07-12 12:17:48.520 [run-main-0] INFO  - Treasures5
+2018-07-12 12:17:48.520 [run-main-0] INFO  - Treasures6
+2018-07-12 12:17:48.520 [run-main-0] INFO  - Treasures7
+2018-07-12 12:17:48.520 [run-main-0] INFO  - Treasures8
+2018-07-12 12:17:48.520 [run-main-0] INFO  - Treasures9
+2018-07-12 12:17:48.521 [run-main-0] INFO  - DigitizationStats
+2018-07-12 12:17:51.504 [run-main-0] INFO  - Number of PDFs in Treasures: 2674 / ()and Total Size in GB: 156.96
+2018-07-12 12:17:51.505 [run-main-0] INFO  - 0
+2018-07-12 12:17:58.975 [run-main-0] INFO  - Number of PDFs in Treasures 2: 693 / ()and Total Size in GB: 75.01
+2018-07-12 12:17:58.975 [run-main-0] INFO  - 0+0
+2018-07-12 12:17:59.764 [run-main-0] INFO  - Number of PDFs in Treasures-3: 357 / ()and Total Size in GB: 20.46
+2018-07-12 12:17:59.764 [run-main-0] INFO  - 0+0+0
+2018-07-12 12:18:00.627 [run-main-0] INFO  - Number of PDFs in Treasures10: 532 / ()and Total Size in GB: 71.88
+2018-07-12 12:18:00.627 [run-main-0] INFO  - 0+0+0+0
+2018-07-12 12:18:01.201 [run-main-0] INFO  - Number of PDFs in Treasures11: 515 / ()and Total Size in GB: 54.21
+2018-07-12 12:18:01.201 [run-main-0] INFO  - 0+0+0+0+0
+2018-07-12 12:18:01.658 [run-main-0] INFO  - Number of PDFs in Treasures12: 281 / ()and Total Size in GB: 28.91
+2018-07-12 12:18:01.658 [run-main-0] INFO  - 0+0+0+0+0+0
+2018-07-12 12:18:02.742 [run-main-0] INFO  - Number of PDFs in Treasures13: 400 / ()and Total Size in GB: 38.13
+2018-07-12 12:18:02.742 [run-main-0] INFO  - 0+0+0+0+0+0+0
+2018-07-12 12:18:03.360 [run-main-0] INFO  - Number of PDFs in Treasures14: 199 / ()and Total Size in GB: 8.98
+2018-07-12 12:18:03.360 [run-main-0] INFO  - 0+0+0+0+0+0+0+0
+2018-07-12 12:18:05.024 [run-main-0] INFO  - Number of PDFs in Treasures15: 510 / ()and Total Size in GB: 29.14
+2018-07-12 12:18:05.025 [run-main-0] INFO  - 0+0+0+0+0+0+0+0+0
+2018-07-12 12:18:05.616 [run-main-0] INFO  - Number of PDFs in Treasures16: 428 / ()and Total Size in GB: 34.96
+2018-07-12 12:18:05.616 [run-main-0] INFO  - 0+0+0+0+0+0+0+0+0+0
+2018-07-12 12:18:05.999 [run-main-0] INFO  - Number of PDFs in Treasures17: 360 / ()and Total Size in GB: 41.8
+2018-07-12 12:18:05.999 [run-main-0] INFO  - 0+0+0+0+0+0+0+0+0+0+0
+2018-07-12 12:18:07.102 [run-main-0] INFO  - Number of PDFs in Treasures18: 1116 / ()and Total Size in GB: 91.31
+2018-07-12 12:18:07.102 [run-main-0] INFO  - 0+0+0+0+0+0+0+0+0+0+0+0
+2018-07-12 12:18:08.903 [run-main-0] INFO  - Number of PDFs in Treasures4: 1345 / ()and Total Size in GB: 143.41
+2018-07-12 12:18:08.904 [run-main-0] INFO  - 0+0+0+0+0+0+0+0+0+0+0+0+0
+2018-07-12 12:18:10.229 [run-main-0] INFO  - Number of PDFs in Treasures5: 910 / ()and Total Size in GB: 88.44
+2018-07-12 12:18:10.229 [run-main-0] INFO  - 0+0+0+0+0+0+0+0+0+0+0+0+0+0
+2018-07-12 12:18:10.849 [run-main-0] INFO  - Number of PDFs in Treasures6: 526 / ()and Total Size in GB: 73.12
+2018-07-12 12:18:10.849 [run-main-0] INFO  - 0+0+0+0+0+0+0+0+0+0+0+0+0+0+0
+2018-07-12 12:18:11.657 [run-main-0] INFO  - Number of PDFs in Treasures7: 962 / ()and Total Size in GB: 94.12
+2018-07-12 12:18:11.657 [run-main-0] INFO  - 0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0
+2018-07-12 12:18:12.244 [run-main-0] INFO  - Number of PDFs in Treasures8: 452 / ()and Total Size in GB: 56.54
+2018-07-12 12:18:12.244 [run-main-0] INFO  - 0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0
+2018-07-12 12:18:12.726 [run-main-0] INFO  - Number of PDFs in Treasures9: 627 / ()and Total Size in GB: 74.01
+2018-07-12 12:18:12.727 [run-main-0] INFO  - 0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0
+2018-07-12 12:18:12.727 [run-main-0] INFO  - pdfCount: 12887
+2018-07-12 12:18:12.727 [run-main-0] INFO  - totalSize in TB: 1.15
+2018-07-12 12:29:00.866 [run-main-0] INFO  - avn_3_2
+2018-07-12 12:29:00.867 [run-main-0] INFO  - avn_3_2-20180708T063558Z-001.zip
+2018-07-12 12:29:00.867 [run-main-0] INFO  - chandi
+2018-07-12 12:29:00.867 [run-main-0] INFO  - Chandigarh
+2018-07-12 12:29:00.867 [run-main-0] INFO  - devPrayag
+2018-07-12 12:29:00.867 [run-main-0] INFO  - IMG-20180709-WA0007.jpeg
+2018-07-12 12:29:00.867 [run-main-0] INFO  - IMG-20180709-WA0009.jpeg
+2018-07-12 12:29:00.867 [run-main-0] INFO  - DigitizationStats
+2018-07-12 12:29:03.475 [run-main-0] INFO  - Number of PDFs in avn_3_2: 5 / Number of Pages: 1293and Total Size in GB: 1.76
+2018-07-12 12:29:03.476 [run-main-0] INFO  - 1293
+2018-07-12 12:31:24.788 [run-main-0] INFO  - avn_3_2
+2018-07-12 12:31:24.789 [run-main-0] INFO  - chandi
+2018-07-12 12:31:24.789 [run-main-0] INFO  - Chandigarh
+2018-07-12 12:31:24.789 [run-main-0] INFO  - devPrayag
+2018-07-12 12:31:24.789 [run-main-0] INFO  - DigitizationStats
+2018-07-12 12:31:26.867 [run-main-0] INFO  - Number of PDFs in avn_3_2: 5 / Number of Pages: 1293and Total Size in GB: 1.76
+2018-07-12 12:31:26.869 [run-main-0] INFO  - 1293
+2018-07-12 12:31:27.281 [run-main-0] INFO  - Number of PDFs in chandi: 5 / Number of Pages: 232and Total Size in GB: 0.07
+2018-07-12 12:31:27.286 [run-main-0] INFO  - 1293+232
+2018-07-12 12:31:27.737 [run-main-0] INFO  - Number of PDFs in Chandigarh: 1 / Number of Pages: 112and Total Size in GB: 0.76
+2018-07-12 12:31:27.737 [run-main-0] INFO  - 1293+232+112
+2018-07-12 12:31:35.179 [run-main-0] INFO  - Number of PDFs in devPrayag: 39 / Number of Pages: 11285and Total Size in GB: 5.88
+2018-07-12 12:31:35.180 [run-main-0] INFO  - 1293+232+112+11285
+2018-07-12 12:31:35.180 [run-main-0] INFO  - pdfCount: 50
+2018-07-12 12:31:35.180 [run-main-0] INFO  - Number of Pages: 12922
+2018-07-12 12:31:35.181 [run-main-0] INFO  - totalSize in TB: 0.01

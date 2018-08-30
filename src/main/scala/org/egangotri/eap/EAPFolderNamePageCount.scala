@@ -1,4 +1,4 @@
-package org.egangotri
+package org.egangotri.eap
 
 import java.io.File
 import java.text.SimpleDateFormat
@@ -27,8 +27,8 @@ object EAPFolderNamePageCount {
 
 }
 
-import java.security.MessageDigest
 import java.nio.file.{Files, Paths}
+import java.security.MessageDigest
 
 object Generator {
   implicit class Helper(val sc: StringContext) extends AnyVal {
