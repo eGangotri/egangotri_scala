@@ -9,17 +9,22 @@ object EAPFileNamingConventionImplementor {
   val COUNTER_INITIAL_VALUE:Int = 0
   val rename:Boolean = true
 
-  val mainFolder:String = "G:\\eap_deliverable\\toModify"
+  val mainFolder:String = "G:\\Sarai\\EAP886_VaidikVivah"
   def main(args: Array[String]) :Unit = {
-    (new File(mainFolder)).listFiles().foreach(proc)
+
+
+    val fileTitle = new File(mainFolder).getName
+    println(s"fileTitle:$fileTitle")
+    new File(mainFolder).listFiles().filter(_.getName == "TIFF").foreach(x=> proc(x,fileTitle) )
   }
 
-    def proc(filePath:File):Unit = {
+    def proc(filePath:File, fileTitle:String):Unit = {
       println(s"proc $filePath")
       var cntr = COUNTER_INITIAL_VALUE
-      val fileTitle = filePath.getName
-      for (f <- filePath.listFiles().filter(_.getName == SUFFIX).head.listFiles) {
-      //for (f <- filePath.listFiles()) {
+      println(s"fileTitle:$fileTitle")
+      println(s"filePath:$filePath")
+
+      for (f <- filePath.listFiles()) {
         if (f.getName.endsWith(SUFFIX_WTH_DOT)) {
           cntr=cntr+1
           var newName = counter(cntr, s"${fileTitle}_")
