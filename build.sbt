@@ -34,6 +34,9 @@ libraryDependencies ++= Seq(
   "org.slf4j" % "slf4j-simple" % "1.7.25"
 )
 
+// https://mvnrepository.com/artifact/com.typesafe.akka/akka-actor
+libraryDependencies += "com.typesafe.akka" %% "akka-actor" % "2.5.16"
+
 assemblyMergeStrategy in assembly := {
   case PathList("bigDataForSkt") => MergeStrategy.discard
   case PathList("META-INF", "MANIFEST.MF") => MergeStrategy.discard
