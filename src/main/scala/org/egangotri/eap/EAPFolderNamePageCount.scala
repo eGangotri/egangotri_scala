@@ -9,11 +9,10 @@ object EAPFolderNamePageCount {
   val TIF = ".TIF"
   val projCode = "EAP886"
 
-  val mainFolder: String = "E:\\Tiff\\EAP886\\OtherAlms"
+  val mainFolder: String = "F:\\Aditya 2nd"
 
   def main(args: Array[String]): Unit = {
     new File(mainFolder).listFiles().foreach(proc)
-    new File("E:\\Tiff\\EAP886\\Alm 1 Tiff files").listFiles().foreach(proc)
   }
 
   def proc(filePath: File): Unit = {

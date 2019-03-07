@@ -9,7 +9,7 @@ object EAPFileNamingConventionImplementor {
   val COUNTER_INITIAL_VALUE:Int = 0
   val rename:Boolean = true
 
-  val mainFolder:String = "G:\\Sarai\\EAP886_VaidikVivah"
+  val mainFolder:String = "F:\\Aditya 2nd\\EAP886_Shabda Kalpa Drum_Kand_Supplement_No_Id_Assigned"
   def main(args: Array[String]) :Unit = {
 
 
@@ -33,6 +33,7 @@ object EAPFileNamingConventionImplementor {
           if(rename) println(f.renameTo(new File(newPath)))
         }
       }
+      println("dont forget checksum with FASTSUM. you can use File-> Calc Wizard for larger folders")
     }
 
     def counter(cntr:Int , prefix:String, suffix:String = SUFFIX_WTH_DOT):String = {
