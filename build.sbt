@@ -12,15 +12,15 @@ scalaVersion := "2.11.8"
 //mainClass in Compile := Some("org.egangotri.CompareFolders")
 //mainClass in Compile := Some("org.egangotri.FileListWithFileInitialText")
 //mainClass in Compile := Some("txn.ReadFile")
-//mainClass in Compile := Some("org.egangotri.ImageItemsToPdfCombiner")
-mainClass in Compile := Some("utils.InterviewCodingSpace")
+mainClass in Compile := Some("org.egangotri.ImageItemsToPdfCombiner")
+//mainClass in Compile := Some("org.bigdata.skt.WordCount")
 
 //mainClass in Compile := Some("org.bigdata.skt.WordCount")
 
 unmanagedBase <<= baseDirectory { base => base / "lib" }
 
 libraryDependencies ++= Seq(
-  "org.apache.spark" % "spark-core_2.11" % "2.1.0"  % "provided",
+  "org.apache.spark" % "spark-core_2.11" % "2.1.0"  /*% "provided"*/,
   "org.scala-lang" % "scala-library" % "2.11.7",
   "org.scala-lang" % "scala-compiler" % "2.11.7",
   "org.scala-lang" % "scala-reflect" % "2.11.7",

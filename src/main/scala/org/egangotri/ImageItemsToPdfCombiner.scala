@@ -18,8 +18,8 @@ object ImageItemsToPdfCombiner {
   var subFolderWithImageItems = "\\OTIFF"
   var pdfSuffix = "_StateCentralLibHyd.pdf" */
   val IMAGE_TYPE = ".JPG"
-  var _rootDir = "E:\\EAP-886\\EGangotri\\w"
-  var subFolderWithImageItems = "//JPEG"
+  var _rootDir = "F:\\Aditya 2nd"
+  var subFolderWithImageItems = "//JPG"
   var pdfSuffix = ".pdf"
   val fileNamePrefix =  "IMG_"
 

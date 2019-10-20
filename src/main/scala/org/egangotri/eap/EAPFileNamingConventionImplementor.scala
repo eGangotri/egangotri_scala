@@ -3,13 +3,13 @@ package org.egangotri.eap
 import java.io.File
 object EAPFileNamingConventionImplementor {
 
-  val SUFFIX = "TIF"
+  val SUFFIX = "CR2"
   val SUFFIX_WTH_DOT = s".$SUFFIX"
   val projCode = "EAP886"
   val COUNTER_INITIAL_VALUE:Int = 0
   val rename:Boolean = true
 
-  val mainFolder:String = "F:\\Aditya 2nd\\EAP886_Shabda Kalpa Drum_Kand_Supplement_No_Id_Assigned"
+  val mainFolder:String = "E:\\egangotri_delhi - Copy\\EAP-886_Subodhini7thAnd8thChapter"
   def main(args: Array[String]) :Unit = {
 
 
